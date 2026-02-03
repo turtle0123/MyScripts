@@ -5,6 +5,8 @@
 // @description  script
 // @match        https://vi.wikipedia.org/*
 // @match        https://en.wiktionary.org/*
+// @updateURL    https://github.com/turtle0123/MyScripts/edit/main/Vietnamese_to_HanZi.tampermonkey.user.js
+// @downloadURL  https://github.com/turtle0123/MyScripts/edit/main/Vietnamese_to_HanZi.tampermonkey.user.js
 // @grant        none
 // @run-at document-idle
 // ==/UserScript==
@@ -361,3 +363,4 @@
     }
 
 })();
+
